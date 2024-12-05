@@ -1,0 +1,1 @@
+export type UserType = 'hiring' | 'seeking';
